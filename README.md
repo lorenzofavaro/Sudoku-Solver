@@ -6,14 +6,14 @@ He sent it to me thinking I would solved it by hand. I could have done it but we
 
 ## Problem
 <p align="center">
-  <img src="https://github.com/lorenzofavaro/Sudoku-Solver/blob/main/docs/problem.png"/>
+  <img src="https://github.com/lorenzofavaro/Logic-Grid-Solver/blob/main/docs/problem.png"/>
 </p>
 
 
 ## Solution
 ```
 clingo version 5.4.0
-Reading from sudoku.cl
+Reading from logic-grid-modeling.cl
 Solving...
 Answer: 1
 elem(iene,11,tommaso,a5) elem(coccodrilli,13,luca,a4) elem(tigri,12,paolo,b5) elem(bufali,9,antonio,b4) elem(leoni,10,maurizio,c4)
@@ -26,5 +26,5 @@ CPU Time     : 0.141s
 
 Reported from the computation, the solution is then:
 <p align="center">
-  <img src="https://github.com/lorenzofavaro/Sudoku-Solver/blob/main/docs/solution.png"/>
+  <img src="https://github.com/lorenzofavaro/Logic-Grid-Solver/blob/main/docs/solution.png"/>
 </p>
