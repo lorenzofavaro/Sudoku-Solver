@@ -1,4 +1,4 @@
-# Sudoku-Solver
+# Logic-Grid-Solver
 This is a logic grid solver for a logic grid puzzle sent by my boss during a Christmas vacation from work.
 
 He sent it to me thinking I would solved it by hand. I could have done it but we all know that time is precious. So I wrote a little program following [Answer Set Programming](https://en.wikipedia.org/wiki/Answer_set_programming) and had a lot of fun. To compute the answer sets it I used [clingo](https://github.com/potassco/clingo).
