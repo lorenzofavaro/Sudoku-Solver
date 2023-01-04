@@ -6,7 +6,7 @@ He sent it to me thinking I would solved it by hand. I could have done it but we
 
 ## Problem
 <p align="center">
-  <img src="https://github.com/lorenzofavaro/Logic-Grid-Solver/blob/main/docs/problem.png"/>
+  <img width=50%" src="https://github.com/lorenzofavaro/Logic-Grid-Solver/blob/main/docs/problem.png"/>
 </p>
 
 
@@ -26,5 +26,5 @@ CPU Time     : 0.141s
 
 Reported from the computation, the solution is then:
 <p align="center">
-  <img src="https://github.com/lorenzofavaro/Logic-Grid-Solver/blob/main/docs/solution.png"/>
+  <img width=50%" src="https://github.com/lorenzofavaro/Logic-Grid-Solver/blob/main/docs/solution.png"/>
 </p>
